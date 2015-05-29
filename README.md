@@ -23,7 +23,7 @@ And, as mentioned above, jspm for package management.
 To install generator-angular-es6 from npm, run:
 
 ```bash
-npm install -g git+https://github.com/Logicea/generator-angular-es6
+npm install -g git+https://github.com/Logicea/generator-angular-es6.git
 ```
 
 Finally, initiate the generator:
